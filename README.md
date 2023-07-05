@@ -1,2 +1,2 @@
-# Aprender_Programando-First_Attemps_At_Websites
-Explore my early attempts at website development as I embark on the Aprender Programando class by UTN. Witness my growth and progression as I delve into HTML, CSS, and various frameworks. Join me on this exciting learning journey towards becoming a skilled website developer.
+# My Journey in Website Development
+Embark on my website development journey as I tackle the first assignment of the Aprender Programando class by UTN. Witness my initial attempts at creating websites as I take my first steps in this exciting field. Despite their imperfections, these projects reflect my determination and eagerness to learn. Join me as I explore the world of website development and embrace the joy of growth.
