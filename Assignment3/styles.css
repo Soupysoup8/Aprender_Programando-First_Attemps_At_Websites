@@ -1,0 +1,32 @@
+
+h1 {
+    color:#ffe5e5;
+    font-size: 60px;
+    font-weight: bold;
+    -webkit-text-stroke: 1px #2c2b2a;
+}
+
+body {
+    background-image: url("./img/wallpaper.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 10px;
+    font-size: 20px;
+    color: #2c2b2a;
+}
+
+.advertencia {
+    font-size: 30px;
+    width: max-content;
+    background-color: #f87d7d;
+}
+
+.video-recomendacion {
+    width: max-content;
+    background-color: #ffe5e5;
+}
+
+.lista { 
+    list-style: square;
+}
